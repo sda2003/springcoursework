@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringcourseworkApplication<springcoursework>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.ijse.springcoursework.SpringcourseworkApplication",
+            "projectName": "springcoursework",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
